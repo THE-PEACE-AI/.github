@@ -1,3 +1,3 @@
-# The P.E.A.C.E. AI
+# P.E.A.C.E.: Prompt-Enabled AI for Climate Engagement
 
 ### Empowering P.E.A.C.E.: Transforming Climate Futures, One Prompt at a Time.
